@@ -1,5 +1,6 @@
 # Algorithmic Policing Freedom of Information Portal 
 
+Below: [Living List of Records](https://github.com/citizenlab/alg-policing-foi-records#algorithmic-policing-foi-portal----living-list-of-records)
 
 On September 1, 2020, the Citizen Lab (Munk School of Global Affairs & Public Policy) and the International Human Rights Program (IHRP) at the University of Toronto published the following report: *[To Surveil and Predict: A Human Rights Analysis of Algorithmic Policing in Canada](https://citizenlab.ca/2020/09/to-surveil-and-predict-a-human-rights-analysis-of-algorithmic-policing-in-canada/)*. The report was the result of a joint research investigation into the use of algorithmic policing technologies by police services across Canada, and provided investigative findings in addition to a comprehensive legal and policy analysis of the use of algorithmic policing technologies, based in international and Canadian human rights and constitutional law.
 
