@@ -16,7 +16,7 @@ The discrepancy between the number of requests we submitted and the records rece
 
 This page is a **living document**. We continue to await records or responses from some public bodies, and may follow up or re-submit earlier requests whose trails died or were abandoned for various reasons. We will add new records to this page whenever they arrive. 
 
-If you have questions or comments regarding this resource, please contact: [?]
+If you have questions or comments regarding this resource, please contact: Cynthia [at] citizenlab [dot] ca
 
 
 
