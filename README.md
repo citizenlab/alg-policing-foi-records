@@ -37,7 +37,7 @@ If you have questions or comments regarding this resource, please contact: [?]
 
 ### Public Safety Canada
 
-* **[A-2016-00387]()(117 pages)** (Informal / ‘piggyback’ ATIP)
+* **[A-2016-00387](https://github.com/citizenlab/alg-policing-foi-records/blob/master/Records/Fed_Public%20Safety_Records_A-2016-00387.PDF)(117 pages)** (Informal / ‘piggyback’ ATIP)
 Original request: *“Any briefing notes, memos, powerpoint presentations regarding the use of artificial intelligence for criminal investigations. Timeline: January 1, 2015 to present (February 20, 2017).”*
 Final request: *“Any briefing notes, memos, PowerPoint presentations regarding the use of machine learning or data analytics, by criminals or for investigations into criminal matters. Timeline: January 1, 2015 to present (February 20, 2017).”*
 
